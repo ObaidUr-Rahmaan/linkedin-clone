@@ -1,11 +1,5 @@
-### LinkedIn Clone
+## LinkedIn Clone
 
-## Tech Stack
+# Tech Stack
 
-# Front-End
-
-- NextJS, Material-UI, TailwindCSS
-
-# Back-end
-
-- MongoDB
+- NextJS, Material-UI, TailwindCSS, NextAuth, Recoil, MongoDB
